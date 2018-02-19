@@ -18,7 +18,7 @@ public $codeRetour;
  *
  * @var string 
  */
-public $message;
+public $datas;
 
 /**
  *
